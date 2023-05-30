@@ -1,2 +1,2 @@
 
-## PAST CS 211 Projects, Labs, Midterms ##
+## CS 211 Projects, Labs, Midterms ##

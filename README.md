@@ -1,2 +1,1 @@
-
-## CS 211 Projects, Labs, Midterms ##
+## CS 211 - Computer Science II: Projects, Labs, & In-Class Examples ##
